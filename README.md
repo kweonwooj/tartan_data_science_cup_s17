@@ -41,7 +41,8 @@ Place data in ```input``` directory.
 
 **[Code]**
 
-Above results can be replicated by runinng all commands in ipython notebook.
+Above results can be replicated by runinng all commands in ```anything_random.ipynb``` notebook.
+
 Make sure you are on Python 3.5.2 with library versions same as specified in requirements.txt
 
 ## Objective
