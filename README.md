@@ -45,7 +45,8 @@ Above results can be replicated by runinng all commands in ```anything_random.ip
 
 Make sure you are on Python 3.5.2 with library versions same as specified in requirements.txt
 
-## Objective
+## Evaluation
+- 15 finalists are selected by their prediction accuracy.
 - Competition required us to submit 2~3 pages of report, describing the problem, methods and results of our machine learning pipeline.
 - Also, finalists were selected to make 5-min presentation, tested on effective communication of their work.
 
