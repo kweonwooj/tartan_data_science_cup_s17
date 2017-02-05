@@ -50,3 +50,5 @@ Make sure you are on Python 3.5.2 with library versions same as specified in req
 - Also, finalists were selected to make 5-min presentation, tested on effective communication of their work.
 
 ## Result
+- 1st place in Prediction Accuracy
+- 2nd place in Overall [Prediction Accuracy + Report Write-up + Oral Presentation]
